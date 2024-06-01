@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="image_login">Image Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="image_story">Image Story</string>
+    <string name="add_story">Action Button Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="change_language">Change Language</string>
+    <string name="choose_image">Please Choose Image First</string>
+    <string name="fill_description">Please Fill Image Description</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="error_password">Password must be 8 characters or more</string>
+    <string name="error_email">Please fill a valid email</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="post_location">Post with current location</string>
+    <string name="retry">Retry</string>
+</resources>
